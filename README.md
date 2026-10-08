@@ -1,5 +1,7 @@
 # SpliceAI2
 
+[Manuscript](https://assets.illumina.com/content/dam/illumina-marketing/images/genomics-research/articles/spliceai2/SpliceAI2.pdf) | [Blog post](https://www.illumina.com/science/genomics-research/articles/introducing-spliceai2--the-next-generation-of-splicing-and-trans.html)
+
 This repository contains the source code for SpliceAI2, a deep learning model that predicts variant effects on splicing through quantitative modeling of splice sites, splice junctions, and transcripts.
 
 Pretrained model weights and precomputed variant effect predictions within protein-coding genes (GENCODE v48, GRCh38), covering all possible single nucleotide variants (4 billion) and indels observed in human populations (150 million), are available on [Hugging Face](https://huggingface.co/illumina-ai) for academic and non-commercial research use. For commercial use, please contact [AI_licensing@illumina.com](mailto:AI_licensing@illumina.com).
