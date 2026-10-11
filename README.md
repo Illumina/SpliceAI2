@@ -122,7 +122,7 @@ topk_tx = decode_topk_tx(
 
 ## Citation
 
-Jaganathan K, Chen J, Liu X, Zhang Y, et al. A unified framework for quantitative splicing and transcript prediction. Unpublished manuscript (2026).
+Jaganathan K, Chen J, Liu X, Zhang Y, et al. A unified framework for quantitative splicing and transcript prediction. bioRxiv (2026). https://doi.org/10.64898/2026.10.08.757673
 
 ## Contact
 
